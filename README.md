@@ -18,7 +18,9 @@ Busco crescimento profissional através de estudo constante, disciplina e projet
 <h3 align="left">📫 Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wuell.souza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/wuelliton-souza-data/](https://www.linkedin.com/in/wuelliton-souza-data/))
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wuelliton-souza-data/)
+
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/souza_wlltn)
 
 <h3 align="left">🚀 Tech Stack</h3>

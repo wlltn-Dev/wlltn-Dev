@@ -52,12 +52,12 @@ Busco crescimento profissional através de estudo constante, disciplina e projet
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h3 align="left">🐍 Contributions</h3>
+<h3 align="left"> Contributions</h3>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlltn-dev/wlltnn-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlltn-dev/wlltn-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wlltn-dev/wlltn-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
 #

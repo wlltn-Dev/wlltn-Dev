@@ -14,7 +14,6 @@ Busco crescimento profissional através de estudo constante, disciplina e projet
 
 #
 
-<img align="right" alt="coding" height="190px" src="./src/study.gif">
 
 <h3 align="left">📫 Connect with me!</h3>
 

@@ -6,11 +6,13 @@
 
 #
 
-Me chamo **Wuelliton Tadeu**, tenho **27 anos** e moro atualmente em **Goiânia - GO, Brasil**.  
-Sou formado em **Tecnologia em Logística** e atualmente curso **Engenharia de Software na Estácio**.  
+Profissional com formação em Logística e graduando em Engenharia de Software.
 
-Estou construindo minha transição para a área de tecnologia, com foco em **Dados, Python, SQL e Desenvolvimento**.  
-Busco crescimento profissional através de estudo constante, disciplina e projetos práticos.
+Em transição estratégica para a área de Dados, com foco em Python, SQL, automação e análise operacional.
+
+Experiência prática em processos, produtividade e rotina operacional, aplicando tecnologia para gerar eficiência e tomada de decisão baseada em dados.
+
+Construindo portfólio com projetos reais e evolução contínua.
 
 #
 

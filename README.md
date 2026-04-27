@@ -6,9 +6,9 @@
 
 #
 
-Profissional com formação em Logística e graduando em Engenharia de Software.
+Profissional com formação em **Logística** e graduando em **Engenharia de Software**.
 
-Em transição estratégica para a área de Dados, com foco em Python, SQL, automação e análise operacional.
+Em transição estratégica para a **área de Dados**, com foco em **Python**, **SQL**, automação e análise operacional.
 
 Experiência prática em processos, produtividade e rotina operacional, aplicando tecnologia para gerar eficiência e tomada de decisão baseada em dados.
 

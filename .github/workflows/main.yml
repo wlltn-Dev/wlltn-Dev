@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: wlltn-Dev
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#f8fafc&color_dots=#e5e7eb,#d1d5db,#9ca3af,#6b7280,#374151
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f8fafc&color_dots=#0f172a,#1e293b,#334155,#64748b,#f8fafc
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

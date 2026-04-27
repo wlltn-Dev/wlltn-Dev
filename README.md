@@ -40,7 +40,7 @@ Busco crescimento profissional através de estudo constante, disciplina e projet
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=wlltn-Dev&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=wlltn-Dev&show_icons=true&theme=tokyonight&locale=en" 
   />
 
   <img 

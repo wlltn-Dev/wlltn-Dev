@@ -65,7 +65,7 @@ Construindo portfólio com projetos reais e evolução constante.
 
 #
 
-<h3 align="left">🐍 Contributions</h3>
+<h3 align="left"> Contributions</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlltn-Dev/wlltn-Dev/output/github-contribution-grid-snake-dark.svg">
